@@ -1,0 +1,17 @@
+{
+  "name": "testing_mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "geckodriver": "^2.0.4",
+    "selenium-webdriver": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "",
+  "license": "ISC"
+}
